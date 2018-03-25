@@ -1,2 +1,4 @@
-# masterkey
-Event economy. Digital commodities. Event assets. Digital collectables. CryptoArt.
+# masterkey: event economy
+Event assets. Digital commodities. Digital collectables. CryptoArt.
+Typefolio template https://github.com/subwaymatch/typefolio.
+Counterparty protocol https://counterparty.io/.
