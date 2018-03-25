@@ -15,6 +15,10 @@ The type of information that could be recorded on bitcoin ledger was extended us
 
 Within the masterkey framework events are digital assets. The events are "objectively" timestamped by default and timestamping is used to differentiate between particular events. The first to capture the event is the owner of a particular event. It can easily be verified when a particular event was first recorded and there is no need to trust a centralized service to do so. Centralized services cannot provide "objective" timestamping simply by design, information can be edited by service operators and they are easier to attack.
 
+Event asset owners are responsible for maintaining the integrity of the general context in which their owned events exist. If the integrity isn't maintained properly the market value of their events will fall.
+
+Masterkey framework leads to economic activity that rewards creativity the most. Market participants have an incentive to remove obstacles that interfere with the creative process and invest resources needed in order to design an environment that maximizes the creation of greater number of culturally relevant, potentially valuable events.
+
 
 Bitcoin: https://bitcoin.org/
 
