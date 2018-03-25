@@ -17,22 +17,22 @@ The fundamental value of a distributed public ledger is the secure environment i
 Information that has been written into this ledger is automatically timestamped, anyone can view it and nobody can modify it.
 
 
-In order to record the information into the distributed public ledger, a fee is paid to the those who invest resources to secure it (bitcoin miners).
+In order to record the information into the distributed public ledger a fee is paid to the those who invest resources to secure it (bitcoin miners).
 
 
 The ‘objectivity’ of a distributed public ledger is measured by the amount of resources the attacker has to use in order to undermine its’ integrity.
 
 
-The type of information that could be recorded on bitcoin ledger, was extended using second layer protocols such as the counterparty protocol. Counterparty protocol enabled the creation of digital assets.
+The type of information that could be recorded on bitcoin ledger was extended using second layer protocols such as the counterparty protocol. Counterparty protocol enabled the creation of digital assets.
 
 
-While being network agnostic, counterparty currently resides on top of bitcoin, which means that all digital assets that are created via counterparty gain the security of the bitcoin network.
+While being network agnostic counterparty currently resides on top of bitcoin which means that all digital assets that are created via counterparty gain the security of the bitcoin network.
 
 
-Each transaction of counterparty assets requires a btc fee, which increases the utility of bitcoin network.
+Each transaction of counterparty assets requires a btc fee which increases the utility of bitcoin network.
 
 
-Within the masterkey framework, events are digital assets. The events are ‘objectively’ timestamped by default and timestamping is used to differentiate between particular events.
+Within the masterkey framework, events are digital assets. The events are "objectively" timestamped by default and timestamping is used to differentiate between particular events.
 
 
 The first to capture the event is the owner of a particular event.
