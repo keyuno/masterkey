@@ -30,7 +30,7 @@ Masterkey framework leads to economic activity that rewards creativity the most.
 
 Today a digital file can be copied and distributed easily on the internet which greatly reduces the ability of content creators to monetize content. A new model for content monetization is available under the masterkey framework. The content creator can now link an asset to the content and use the digital asset as an anchoring point for the content itself.
 
-The greater cultural impact the content will have, the higher the probability that it would be reflected in an increased market value of the anchored counterparty asset. To increase exposure, the content creator will now have a bigger incentive to provide free access to the content.
+The greater cultural impact the content will have, the higher the probability that it would be reflected in an increased market value of the anchored counterparty asset. To increase exposure the content creator will now have a bigger incentive to provide free access to the content.
 
 
 Bitcoin: https://bitcoin.org/
